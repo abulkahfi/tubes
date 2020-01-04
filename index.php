@@ -26,7 +26,8 @@
     <link rel="stylesheet" type="text/css" href="css/main.css">
     <!--===============================================================================================-->
 </head>
-
+<!--Ini komentar-->
+<!--Ini komentar yang lain-->
 <body>
 
     <div class="limiter">
